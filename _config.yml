@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Gaurav Rai
 tagline:          'A Jekyll theme'
 description:      'Work in progress...'
-url:              https://rai-gaurav.github.io
+url:              http://rai-gaurav.github.io
 baseurl:          /
 
 author:
